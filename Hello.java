@@ -1,3 +1,3 @@
 Good evening (from branch master)
 line from user2
-line form user1
+line form user2
